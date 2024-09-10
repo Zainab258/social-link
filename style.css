@@ -7,11 +7,11 @@
 
 body {
   max-width: 1440px;
-  margin: 10px 0 auto;
+  margin: 20px 0 auto;
  background-color: hsl(0, 0%, 8%);
  display: flex;
  justify-content: center;
- height: 110vh;
+ height: 100vh;
  line-height: 1.5;
 
 }
@@ -62,7 +62,7 @@ h3 {
 }
 
 .nav li {
-  margin: 20px 0;
+  margin: 10px 0;
   padding-left: 90px;
   padding-right: 90px;
   border-radius: 5px;
